@@ -1,0 +1,259 @@
+{
+  "slug": "you-odonto",
+  "negocio": {
+    "nome": "You Odonto",
+    "logo": "brand/logo.png",
+    "whatsapp": "5541984979594",
+    "unidades": [
+      {
+        "bairro": "Água Verde · Curitiba",
+        "endereco": "Rua Brigadeiro Franco, 3323 – Água Verde, Curitiba – PR",
+        "telefone": "(41) 98497-9594",
+        "horario": "Seg a sex, 8h às 18h · Sáb, 8h às 12h"
+      },
+      {
+        "bairro": "Praia Brava · Itajaí",
+        "endereco": "Av. Osvaldo Reis, 3385 – Praia Brava, Itajaí – SC (anexo ao Hilton Garden)",
+        "telefone": "(47) 99713-7334",
+        "horario": "Seg a sex, 8h às 18h · Sáb, 8h às 12h"
+      }
+    ]
+  },
+  "marca": {
+    "brand": "#1A4DB3",
+    "brand2": "#000D1A",
+    "ink": "#0F0F0F",
+    "bg": "#FFFFFF",
+    "pulse": "#AB0606",
+    "radius": "7px",
+    "registro": "editorial",
+    "fontDisplay": "Newsreader",
+    "fontBody": "Montserrat",
+    "tomHero": "escuro",
+    "tomCorpo": "claro"
+  },
+  "secoes": [
+    {
+      "id": "header",
+      "variant": "sticky-cta",
+      "data": {
+        "links": [
+          { "texto": "Tratamentos", "href": "#tratamentos" },
+          { "texto": "A clínica", "href": "#manifesto" },
+          { "texto": "Como funciona", "href": "#como-funciona" },
+          { "texto": "Perguntas", "href": "#faq" },
+          { "texto": "Unidades", "href": "#unidades" }
+        ]
+      }
+    },
+    {
+      "id": "hero",
+      "variant": "split-motivo",
+      "data": {
+        "eyebrow": "Curitiba · Água Verde",
+        "h1": "Do implante às lentes, na mesma clínica",
+        "lead": "Odontologia no Água Verde, em Curitiba, desde 2007. Implante, prótese, ortodontia, lentes em resina e harmonização facial, com avaliação sem custo.",
+        "cta": "Agendar avaliação",
+        "ctaSecundario": "Ver tratamentos",
+        "ctaSecundarioHref": "#tratamentos",
+        "cardTitulo": "Agende sua avaliação",
+        "imagem": "midia/fachada.jpg",
+        "imagemAlt": "Fachada da clínica You Odonto na Rua Brigadeiro Franco, em Curitiba, com paredes brancas, janelas pretas e gramado na frente",
+        "arte": "grao"
+      }
+    },
+    {
+      "id": "fita",
+      "data": {
+        "itens": [
+          "Implante dentário",
+          "Prótese dentária",
+          "Ortodontia",
+          "Ortodontia invisível",
+          "Lentes em resina",
+          "Harmonização facial",
+          "Odontopediatria",
+          "Clareamento"
+        ]
+      }
+    },
+    {
+      "id": "numeros",
+      "variant": "faixa",
+      "data": {
+        "titulo": "A You Odonto em números",
+        "itens": [
+          { "valor": "997", "rotulo": "avaliações no Google, com nota média 5,0", "contar": 997 },
+          { "valor": "2007", "rotulo": "ano em que a clínica começou a atender" },
+          { "valor": "2", "rotulo": "unidades: Curitiba e Itajaí", "contar": 2 },
+          { "valor": "8", "rotulo": "tratamentos no mesmo lugar", "contar": 8 }
+        ]
+      }
+    },
+    {
+      "id": "manifesto",
+      "variant": "pagina",
+      "data": {
+        "eyebrow": "A clínica",
+        "citacao": "Quem procura um sorriso novo costuma precisar de mais de uma especialidade.",
+        "autor": "You Odonto",
+        "texto": [
+          "A You Odonto reúne numa só clínica o que, em outros lugares, vira uma peregrinação entre consultórios: implante e prótese para repor dentes, ortodontia para alinhar, lentes em resina e clareamento para a estética, harmonização facial e odontopediatria para o resto da família.",
+          "O atendimento é feito por equipe multidisciplinar, na Rua Brigadeiro Franco, no Água Verde. A avaliação em Curitiba não tem custo e é por ela que o caso começa."
+        ]
+      }
+    },
+    {
+      "id": "tratamentos",
+      "variant": "pilha",
+      "data": {
+        "titulo": "O que se trata na You Odonto",
+        "lead": "Cada procedimento é indicado depois da avaliação, que define o que faz sentido para o seu caso.",
+        "itens": [
+          {
+            "nome": "Implante dentário",
+            "descricao": "Um pino de titânio entra no osso para sustentar a coroa que repõe um dente perdido. Na avaliação, o dentista confere se há osso suficiente e o que mais o caso pede.",
+            "icone": "dente"
+          },
+          {
+            "nome": "Prótese dentária",
+            "descricao": "Reposição de um ou vários dentes por peça fixa ou removível, escolhida conforme o que resta de estrutura e o que o paciente espera de conforto e mastigação.",
+            "icone": "dente"
+          },
+          {
+            "nome": "Ortodontia",
+            "descricao": "Aparelho para alinhar os dentes e corrigir a mordida, para crianças, adolescentes e adultos.",
+            "icone": "dente"
+          },
+          {
+            "nome": "Ortodontia invisível",
+            "descricao": "Alinhadores transparentes que corrigem o posicionamento dos dentes sem os fios e bráquetes do aparelho fixo.",
+            "icone": "check"
+          },
+          {
+            "nome": "Lentes em resina",
+            "descricao": "Camada fina de resina sobre os dentes da frente para acertar cor, formato e pequenos desalinhamentos.",
+            "icone": "estrela"
+          },
+          {
+            "nome": "Harmonização facial",
+            "descricao": "Procedimentos que equilibram os traços do rosto, planejados a partir das características de cada paciente.",
+            "icone": "rosto"
+          },
+          {
+            "nome": "Odontopediatria",
+            "descricao": "Consulta para crianças, no ritmo de quem ainda está aprendendo a ir ao dentista.",
+            "icone": "bebe"
+          },
+          {
+            "nome": "Clareamento",
+            "descricao": "Remoção de manchas e escurecimento dos dentes, com indicação feita na avaliação.",
+            "icone": "sol"
+          }
+        ]
+      }
+    },
+    { "custom": "blocos/naturalidade.html" },
+    {
+      "id": "galeria",
+      "variant": "mosaico",
+      "data": {
+        "titulo": "Por dentro da unidade Praia Brava",
+        "lead": "O espaço da You Odonto em Itajaí: recepção em madeira e ripado, consultórios com janela de piso a teto.",
+        "itens": [
+          { "imagem": "midia/consultorio-janela.jpg", "legenda": "Consultório com vista, unidade Praia Brava" },
+          { "imagem": "midia/recepcao.jpg", "legenda": "Recepção" },
+          { "imagem": "midia/consultorio-bancada.jpg", "legenda": "Consultório e bancada de apoio" }
+        ]
+      }
+    },
+    {
+      "id": "passos",
+      "variant": "timeline",
+      "data": {
+        "titulo": "Do primeiro contato ao retorno",
+        "itens": [
+          {
+            "titulo": "Mensagem no WhatsApp",
+            "texto": "Você conta o que procura e escolhe o dia e o horário.",
+            "icone": "conversa"
+          },
+          {
+            "titulo": "Avaliação",
+            "texto": "Em Curitiba, sem custo. O dentista examina e explica o que faz sentido tratar.",
+            "icone": "estetoscopio"
+          },
+          {
+            "titulo": "Plano de tratamento",
+            "texto": "Etapas e ordem combinadas antes de começar, para você saber o que vem depois de cada consulta.",
+            "icone": "agenda"
+          },
+          {
+            "titulo": "Tratamento",
+            "texto": "Implante, prótese, aparelho ou lentes, conforme o plano.",
+            "icone": "dente"
+          },
+          {
+            "titulo": "Retorno e manutenção",
+            "texto": "Implante, aparelho e lentes pedem revisões. Uma mensagem avisa a data de voltar, antes de ela passar.",
+            "icone": "check"
+          }
+        ]
+      }
+    },
+    {
+      "id": "faq",
+      "variant": "colunas",
+      "data": {
+        "titulo": "Antes de agendar",
+        "itens": [
+          {
+            "p": "A avaliação tem custo?",
+            "r": "Em Curitiba, não. É o primeiro passo para qualquer tratamento."
+          },
+          {
+            "p": "Todo mundo pode fazer implante?",
+            "r": "Depende da saúde geral e do osso disponível. O dentista avalia na consulta, com exame, e diz se o implante é o caminho ou se há outra opção."
+          },
+          {
+            "p": "Qual a diferença entre ortodontia fixa e invisível?",
+            "r": "A fixa usa bráquetes e fios colados nos dentes. A invisível usa alinhadores transparentes. Qual serve melhor depende do caso, e é decidido na avaliação."
+          },
+          {
+            "p": "Vocês atendem crianças?",
+            "r": "Sim. A odontopediatria é um dos tratamentos da clínica."
+          },
+          {
+            "p": "Em que dias e horários a clínica atende?",
+            "r": "De segunda a sexta, das 8h às 18h, e aos sábados, das 8h às 12h."
+          },
+          {
+            "p": "Existe unidade fora de Curitiba?",
+            "r": "Sim, na Praia Brava, em Itajaí (SC), anexa ao Hilton Garden, com os mesmos horários."
+          }
+        ]
+      }
+    },
+    {
+      "id": "unidades",
+      "variant": "cartoes",
+      "data": { "titulo": "Onde fica a You Odonto" }
+    },
+    {
+      "id": "cta-final",
+      "variant": "bloco-cheio",
+      "data": {
+        "h2": "Comece pela avaliação",
+        "lead": "Mande uma mensagem pelo WhatsApp e escolha o horário. Em Curitiba, a primeira consulta não tem custo.",
+        "cta": "Agendar avaliação"
+      }
+    },
+    {
+      "id": "footer",
+      "variant": "completo",
+      "data": {
+        "aviso": "Proposta de site de demonstração, não é o site oficial da clínica. Todo procedimento é indicado após avaliação clínica, e os resultados variam de paciente para paciente."
+      }
+    }
+  ]
+}
